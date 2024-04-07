@@ -25,7 +25,7 @@ const SideBar = () => {
 
             </div>
 
-            {extended ?
+            {/* {extended ?
                 <div className='recent'>
 
                     <p className='recent-title'>Recent</p> 
@@ -39,7 +39,7 @@ const SideBar = () => {
                     })}
                     
                 </div>
-            : null}
+            : null} */}
 
         </div>
 
